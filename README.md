@@ -1,0 +1,1 @@
+Cadastro básico de personagens para uma campanha de RPG de mesa.
